@@ -7,7 +7,7 @@ Quick app that queries Bloomberg's quote page and displays share details on scre
 go build main.go
 ```
 
-### flags
+### Flags
 * -c string
        bloomberg instrument codes (default "NFSWIX:SJ,DBXWD:SJ")
 * -i duration
